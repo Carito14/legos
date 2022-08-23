@@ -1,0 +1,200 @@
+[
+  {
+    "lego_set_name": "Atari® 2600",
+    "real_image": "https://en.wikipedia.org/wiki/Atari_2600#/media/File:Atari-2600-Wood-4Sw-Set.png",
+    "lego_set_image":"https://nypost.com/wp-content/uploads/sites/2/2022/07/lego-atari-45.jpg?quality=75&strip=all&w=1488",
+    "website": "https://www.lego.com/en-us/product/atari-2600-10306",
+    "price": "$239.99"
+  },
+
+  {
+    "lego_set_name": "Adidas Originals Superstar",
+    "real_image": "https://assets.adidas.com/images/w_600,f_auto,q_auto/ae4e603bd7164a0d86e7aafc0160750c_9366/Superstar_Shoes_White_FV3284.jpg",
+    "lego_set_image": "https://www.lego.com/cdn/cs/set/assets/blt87b29cdc866d4a4c/10282.jpg?fit=bounds&format=jpg&quality=80&width=528&height=528&dpr=1",
+    "website": "https://www.lego.com/en-us/product/adidas-originals-superstar-10282",
+    "price": "$79.99"
+  },
+ 
+  {
+    "lego_set_name": "Fiat 500",
+    "real_image": "https://en.wikipedia.org/wiki/Fiat_500#/media/File:1970_Fiat_500_L_--_2011_DC_1.jpg",
+    "lego_set_image": "https://www.lego.com/cdn/cs/set/assets/bltae516f8752612451/10271.jpg?fit=bounds&format=jpg&quality=80&width=528&height=528&dpr=1",
+    "website": "https://www.lego.com/en-us/product/fiat-500-10271",
+    "price": "$89.99"
+  },
+
+  {
+    "lego_set_name": "Statue of Liberty",
+    "real_image": "https://www.history.com/.image/ar_1:1%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_1200/MTU3ODc3NjU2MjA0NDIwNDI1/this-day-in-history-06171885---statue-of-liberty-arrives.jpg",
+    "lego_set_image": "https://cdn.shopify.com/s/files/1/0049/9292/products/statue_of_liberty_1_600x.jpg?v=1583876087",
+    "website": "https://www.lego.com/en-us/product/statue-of-liberty-21042",
+    "price": "$119.99"
+  },
+  {
+    "lego_set_name": "NASA Apollo 11 Lunar Lander",
+    "real_image": "https://en.wikipedia.org/wiki/Lunar_Module_Eagle#/media/File:Apollo_11_Lunar_Lander_-_5927_NASA.jpg",
+    "lego_set_image": "https://www.lego.com/cdn/cs/set/assets/blt5e2703640ec85d2a/10266.jpg?fit=bounds&format=jpg&quality=80&width=528&height=528&dpr=1",
+    "website": "https://www.lego.com/en-us/product/nasa-apollo-11-lunar-lander-10266",
+    "price": "$99.99"
+  },
+
+  {
+    "lego_set_name": "Orchid",
+    "real_image": "https://maramon.store/wp-content/uploads/2022/03/48.png",
+    "lego_set_image": "https://www.lego.com/cdn/cs/set/assets/blt08ea230311e717b8/10311.png?fit=bounds&format=png&width=1500&height=1500&dpr=1",
+    "website": "https://www.lego.com/en-us/product/orchid-10311",
+    "price": "$49.99"
+  },
+
+  {
+    "lego_set_name": "Typewriter",
+    "real_image": "https://cdn20.pamono.com/p/s/9/5/956398_7ydjvwkwnv/mint-green-lettera-22-typewriter-from-olivetti.jpg",
+    "lego_set_image": "http://cdn.cnn.com/cnnnext/dam/assets/210609105049-02-lego-typewriter-super-tease.jpg",
+    "website": "https://www.lego.com/en-us/product/typewriter-21327",
+    "price": "$249.99"
+  },
+
+  {
+    "lego_set_name": "The Disney Castle",
+    "real_image": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Cinderella_Castle_October_1.jpg",
+    "lego_set_image": "https://www.lego.com/cdn/cs/set/assets/blt9ecbcfc462381676/71040.jpg?fit=bounds&format=jpg&quality=80&width=528&height=528&dpr=1",
+    "website": "https://www.lego.com/en-us/product/the-disney-castle-71040",
+    "price": "$349.99"
+  },
+
+  {
+    "lego_set_name": "The Globe",
+    "real_image": "https://a.1stdibscdn.com/mid-twentieth-century-illuminated-terrestrial-glass-globe-by-george-f-cram-for-sale-picture-2/f_14442/f_272254021643947067718/2_master.jpeg?width=768",
+    "lego_set_image": "https://www.lego.com/cdn/cs/set/assets/blta93a030f7e94e881/21332.png?fit=bounds&format=png&width=1500&height=1500&dpr=1",
+    "website": "https://www.lego.com/en-us/product/the-globe-21332",
+    "price": "$229.99"
+  },
+
+  {
+    "lego_set_name": "Grand Piano",
+    "real_image": "https://www.chuppspianos.com/wp-content/uploads/2021/04/Steinway-Model-D-Concert-Grand-Piano-272743-CD180-Concert-and-Artist-Grand-Fully-Restored-by-Chupps-Piano-Service.jpg",
+    "lego_set_image": "https://www.lego.com/cdn/cs/set/assets/blt20c84b1ff55e3256/21323.jpg?fit=bounds&format=jpg&quality=80&width=528&height=528&dpr=1",
+    "website": "https://www.lego.com/en-us/product/grand-piano-21323",
+    "price": "$399.99"
+  },
+
+  {
+    "lego_set_name": "Vincent van Gogh - The Starry Night",
+    "real_image": "https://en.wikipedia.org/wiki/The_Starry_Night#/media/File:Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg",
+    "lego_set_image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/lego-vincent-van-gogh-the-starry-night-painting-building-block-set-1652970231.jpg",
+    "website": "https://www.lego.com/en-us/product/vincent-van-gogh-the-starry-night-21333",
+    "price": "$169.99"
+  },
+
+  {
+    "lego_set_name": "Tree House",
+    "real_image": "https://images.squarespace-cdn.com/content/v1/53e4101fe4b0a79b40475e1a/1600304378804-209QLWJNVYOJ89M8LAEH/DSC_5252.JPG",
+    "lego_set_image": "https://www.lego.com/cdn/cs/set/assets/blt177e3adbf9069c6f/21318.jpg?fit=bounds&format=jpg&quality=80&width=1500&height=1500&dpr=1",
+    "website": "https://www.lego.com/en-us/product/tree-house-21318",
+    "price": "$249.99"
+  },
+
+  {
+    "lego_set_name": "Dinosaur Fossils",
+    "real_image": "https://s.abcnews.com/images/Politics/gorgosaurus-01-gty-iwb-220728_1659013593768_hpMain_16x9_1600.jpg",
+    "lego_set_image": "https://www.brickeconomy.com/resources/images/sets/lego-21320-1_xlarge.jpg",
+    "website": "https://www.lego.com/en-us/product/dinosaur-fossils-21320",
+    "price": "$59.99"
+  },
+  
+  {
+    "lego_set_name": "Spice Girls Tribute",
+    "real_image": "https://media.vanityfair.com/photos/5d01210eef4f5d561d3a409d/master/pass/shutterstock_editorial_274615a_huge.jpg",
+    "lego_set_image": "https://www.lego.com/cdn/cs/set/assets/blt49d1908f133eea6a/40548.png",
+    "website": "https://www.lego.com/en-us/product/spice-girls-tribute-40548",
+    "price": "$49.99"
+  },
+
+  {
+    "lego_set_name": "Bonsai Tree",
+    "real_image": "https://gardenerspath.com/wp-content/uploads/2021/09/White-Pine-Bonsai-Tree.jpg",
+    "lego_set_image": "https://www.tradeinn.com/f/13816/138165090_2/lego-bonsai-tree-construction-playset.jpg",
+    "website": "https://www.lego.com/en-us/product/bonsai-tree-10281",
+    "price": "$49.99"
+  },
+
+  {
+    "lego_set_name": "Loop Coaster",
+    "real_image": "https://cjbarrymores.com/wp-content/uploads/2019/03/3K2A0868-1.jpg",
+    "lego_set_image": "https://www.lego.com/cdn/cs/set/assets/blt0e81d1708c094553/10303.png?fit=bounds&format=png&width=528&height=528&dpr=1",
+    "website": "https://www.lego.com/en-us/product/loop-coaster-10303",
+    "price": "$399.99"
+  },
+
+  {
+    "lego_set_name": "Colosseum",
+    "real_image": "https://res.cloudinary.com/dtpgi0zck/image/upload/s--DLEyRors--/c_fill,h_580,w_860/v1/EducationHub/photos/colosseum.jpg",
+    "lego_set_image": "https://www.lego.com/cdn/cs/set/assets/blt86423e4ec25d4312/10276.jpg?fit=bounds&format=jpg&quality=80&width=528&height=528&dpr=1",
+    "website": "https://www.lego.com/en-us/product/colosseum-10276",
+    "price": "$549.99"
+  },
+
+  {
+    "lego_set_name": "Airbus H175 Rescue Helicopter",
+    "real_image": "https://www.businessairportinternational.com/wp-content/uploads/2018/06/H145-REGA_U%CC%88bergabefeierlichkeit_2018_06_21_210.jpg",
+    "lego_set_image": "https://www.lego.com/cdn/cs/set/assets/blt68182ce55fcceb45/42145.png?fit=bounds&format=png&width=1500&height=1500&dpr=1",
+    "website": "https://www.lego.com/en-us/product/airbus-h175-rescue-helicopter-42145",
+    "price": "$209.99"
+  },
+
+  {
+    "lego_set_name": "Land Rover Defender",
+    "real_image": "https://robbreport.com/wp-content/uploads/2022/06/PrincePhilip_Defender110_4.jpg?w=1000",
+    "lego_set_image": "https://shop.landrover.com/media/catalog/product/cache/45f00df175d6f712349c9c46eeed3926/b/c/bc6044b458ef996c44f18cf94fe6fb68_7.jpg",
+    "website": "https://www.lego.com/en-us/product/land-rover-defender-42110",
+    "price": "$199.99"
+  },
+
+  {
+    "lego_set_name": "LEGO® Titanic",
+    "real_image": "https://cdn.britannica.com/72/153172-050-EB2F2D95/Titanic.jpg",
+    "lego_set_image": "https://www.lego.com/cdn/cs/set/assets/bltb94632aeb971eb91/10294.jpg?fit=bounds&format=jpg&quality=80&width=528&height=528&dpr=1",
+    "website": "https://www.lego.com/en-us/product/lego-titanic-10294",
+    "price": "$679.99"
+  },
+  
+  {
+    "lego_set_name": "Ship in a Bottle",
+    "real_image": "https://www.shipinbottles.com/uploads/7/4/3/5/7435630/dsc-0499_orig.jpg",
+    "lego_set_image": "https://www.lego.com/cdn/cs/set/assets/bltd635f19435bee4e6/21313.jpg",
+    "website": "https://www.lego.com/en-us/product/ship-in-a-bottle-92177",
+    "price": "$69.99"
+  },
+
+  {
+    "lego_set_name": "International Space Station",
+    "real_image": "https://www.nasa.gov/sites/default/files/s132e012209_sm.jpg",
+    "lego_set_image": "https://www.lego.com/cdn/cs/set/assets/blt3777f348d7f98b8d/21321.jpg?fit=bounds&format=jpg&quality=80&width=1500&height=1500&dpr=1",
+    "website": "https://www.lego.com/en-us/product/international-space-station-21321",
+    "price": "$69.99"
+  },
+
+  {
+    "lego_set_name": "Majestic Tiger",
+    "real_image": "https://www.rd.com/wp-content/uploads/2018/07/bengal-tiger.jpg?resize=700,466",
+    "lego_set_image": "https://www.lego.com/cdn/cs/set/assets/blt96a42a3282aef3e0/31129.png",
+    "website": "https://www.lego.com/en-us/product/majestic-tiger-31129",
+    "price": "$49.99"
+  },
+
+  {
+    "lego_set_name": "LEGO® Ideas Fender® Stratocaster™",
+    "real_image": "https://cdn.shopify.com/s/files/1/0255/8659/7968/products/JH-409.jpg?v=1594261181",
+    "lego_set_image": "https://theawesomer.com/photos/2021/09/lego_ideas_fender_stratocaster_1.jpg",
+    "website": "https://www.lego.com/en-us/product/lego-ideas-fender-stratocaster-21329",
+    "price": "$119.99"
+  },
+
+  {
+    "lego_set_name": "Great Pyramid of Giza",
+    "real_image": "https://en.wikipedia.org/wiki/Great_Pyramid_of_Giza#/media/File:Kheops-Pyramid.jpg",
+    "lego_set_image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2022%2F05%2Flego-pyramid-of-giza-model-release-info-000.jpg?w=960&cbr=1&q=90&fit=max",
+    "website": "https://www.lego.com/en-us/product/great-pyramid-of-giza-21058",
+    "price": "$129.99"
+  }
+]
