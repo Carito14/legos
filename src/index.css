@@ -1,13 +1,27 @@
 body {
   text-align: center;
-  display:grid;
+  background-color: yellow;
+  display: grid;
+
+}
+
+.card {
+  padding: 2rem;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(16rem, 20rem));
+  gap: 3rem;
+  justify-content: center;
 }
 
 img {
-width: 300px;
-height: auto;
+width: 20rem;
+height: 20rem;
 display: inline-block;
 display: center;
+background-color: white;
+
+border-color: black;
+border-style: groove;
 }
 
 ul {
@@ -27,6 +41,7 @@ justify-content: center;
   width: 100vw;
   height: 10vh;
   background-color: red;
+  color: yellow;
   text-align: center;
 
 
@@ -34,3 +49,4 @@ justify-content: center;
   align-items: center;
   justify-content: space-around;
 }
+
