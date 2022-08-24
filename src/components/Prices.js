@@ -64,7 +64,7 @@ const Prices = (props) => {
   }
 
   return (
-    <div style={{ backgroundColor: color, color: 'white' }}>{props.price}</div>
+    <div style={{ backgroundColor: color, color: 'gray' }}>{props.price}</div>
   )
 }
 

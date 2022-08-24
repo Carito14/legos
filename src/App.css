@@ -1,11 +1,19 @@
 body {
   text-align: center;
   background-color: yellow;
+  display:grid;
 }
 
 img {
 width: 300px;
 height: auto;
 display: inline-block;
+display: flex;
+}
+
+ul {
+list-style: none;
+padding: auto;
+
 }
 
