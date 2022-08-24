@@ -1,6 +1,6 @@
 body {
   text-align: center;
-  background-color: yellow;
+  background-color: lightgray;
   display: grid;
 
 }
@@ -8,8 +8,8 @@ body {
 .card {
   padding: 2rem;
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(16rem, 20rem));
-  gap: 3rem;
+  grid-template-columns:repeat(auto-fit, minmax(16rem, 20rem));
+  gap: 5rem;
   justify-content: center;
 }
 
@@ -40,8 +40,8 @@ justify-content: center;
 .nav-bar {
   width: 100vw;
   height: 10vh;
-  background-color: red;
-  color: yellow;
+  background-color: yellow;
+  color: red;
   text-align: center;
 
 
