@@ -57,11 +57,11 @@ const Prices = (props) => {
       color = 'green'
       break
     default:
-      color = 'gray'
+      color = 'white'
   }
 
   return (
-    <div style={{ backgroundColor: color, color: 'gray' }}>{props.price}</div>
+    <div style={{ backgroundColor: color, color: 'white' }}>{props.price}</div>
   )
 }
 

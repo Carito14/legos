@@ -14,6 +14,7 @@ const App = () => {
             lego_set_image={legos.lego_set_image}
             real_image={legos.real_image}
             price={legos.price}
+            website={legos.website}
           />
         ))}
       </div>

@@ -12,17 +12,18 @@ body {
   gap: 5rem;
   justify-content: center;
 }
-
 img {
-width: 20rem;
-height: 20rem;
-display: inline-block;
-display: center;
-background-color: white;
+  width: 20rem;
+  height: 20rem;
+  display: inline-block;
+  display: center;
+  background-color: white;
+  
+  border-color: black;
+  border-style: groove;
+  }
+  
 
-border-color: black;
-border-style: groove;
-}
 
 ul {
 list-style: none;
@@ -30,12 +31,6 @@ padding: auto;
 
 }
 
-.shadow {
-margin: auto;
-display: flex;
-justify-content: center;
-
-}
 
 .nav-bar {
   width: 100vw;
