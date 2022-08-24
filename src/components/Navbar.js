@@ -1,11 +1,11 @@
-import NavItem from './NavItem'
+import NavItems from './NavItems'
 
 const NavBar = () => {
   return (
     <nav className="nav-bar">
-      <NavItem content="Home" />
-      <NavItem content="Lego Store" />
-      <NavItem content="More Info" />
+      <NavItems content="Home" />
+      <NavItems content="Lego Store" />
+      <NavItems content="More Info" />
     </nav>
   )
 }

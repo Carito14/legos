@@ -2,3 +2,22 @@ body {
   margin: 0;
 }
 
+.nav-bar {
+  width: 100vw;
+  height: 10vh;
+  background-color: red;
+  color: white;
+  text-align: center;
+
+
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+img {
+  width: 300px;
+  height: auto;
+  display: inline-block;
+  display: flex;
+  align-items: center;
+  }
