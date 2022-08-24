@@ -10,7 +10,7 @@ const Legos = (props) => {
         <img src={props.real_image} alt="real object" />
         <h3>Price: {props.price}</h3>
         <a href="https://www.lego.com/en-us">
-          <button>Buy</button>
+          <button>Buy Now</button>
         </a>
         {/* {props.price.map((price) => (
           <Prices key={price.price} />

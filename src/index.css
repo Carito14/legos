@@ -1,12 +1,32 @@
 body {
-  margin: 0;
+  text-align: center;
+  display:grid;
+}
+
+img {
+width: 300px;
+height: auto;
+display: inline-block;
+display: center;
+}
+
+ul {
+list-style: none;
+padding: auto;
+
+}
+
+.shadow {
+margin: auto;
+display: flex;
+justify-content: center;
+
 }
 
 .nav-bar {
   width: 100vw;
   height: 10vh;
   background-color: red;
-  color: white;
   text-align: center;
 
 
@@ -14,10 +34,3 @@ body {
   align-items: center;
   justify-content: space-around;
 }
-img {
-  width: 300px;
-  height: auto;
-  display: inline-block;
-  display: flex;
-  align-items: center;
-  }
