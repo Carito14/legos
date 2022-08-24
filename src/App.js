@@ -1,8 +1,8 @@
 import './App.css'
 import data from './data/legos.json'
 import Legos from './components/Legos'
-import Navbar from './components/Navbar'
 import Prices from './components/Prices'
+import Navbar from './components/Navbar'
 
 const App = () => {
   return (

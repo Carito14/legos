@@ -17,3 +17,22 @@ padding: auto;
 
 }
 
+.shadow {
+margin: auto;
+display: flex;
+justify-content: center;
+
+}
+
+.nav-bar {
+  width: 100vw;
+  height: 10vh;
+  background-color: red;
+  color: white;
+  text-align: center;
+
+
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
