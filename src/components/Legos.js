@@ -9,7 +9,7 @@ const Legos = (props) => {
 
         <img className="bottom" src={props.lego_set_image} alt="object" />
         <img className="top" src={props.real_image} alt="real object" />
-        <h3>Price: {props.price}</h3>
+
         <a href={props.website}>
           <button>Buy Now</button>
         </a>
