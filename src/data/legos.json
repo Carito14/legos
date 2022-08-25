@@ -196,5 +196,29 @@
     "lego_set_image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2022%2F05%2Flego-pyramid-of-giza-model-release-info-000.jpg?w=960&cbr=1&q=90&fit=max",
     "website": "https://www.lego.com/en-us/product/great-pyramid-of-giza-21058",
     "price": "$129.99"
+  },
+
+  {
+    "lego_set_name": "Ducati Panigale V4 R",
+    "real_image": "https://mcn-images.bauersecure.com/wp-images/4710/ducati-panigale-v4r-10.jpg",
+    "lego_set_image": "https://www.lego.com/cdn/cs/set/assets/blt61ed62ce0e0f3eeb/42107_alt12.png",
+    "website": "https://www.lego.com/en-us/product/ducati-panigale-v4-r-42107",
+    "price": "$79.99"
+  },
+
+  {
+    "lego_set_name": "Old Trafford - Manchester United",
+    "real_image": "https://images.ladbible.com/resize?type=jpeg&quality=70&width=720&fit=pad&dpr=1&url=https://eu-images.contentstack.com/v3/assets/blta90d05ad41a54a71/blt1a40b507540e6386/622fae4b580edb65ef8b19bc/275626041_680613036610407_6366654351982307246_n.png",
+    "lego_set_image": "https://www.lego.com/cdn/cs/set/assets/blt50a5dd3d6b123b48/10272.jpg?fit=bounds&format=jpg&quality=80&width=528&height=528&dpr=1",
+    "website": "https://www.lego.com/en-us/product/old-trafford---manchester-united-10272",
+    "price": "$299.99"
+  },
+
+  {
+    "lego_set_name": "Bird of Paradise",
+    "real_image": "https://images.immediate.co.uk/production/volatile/sites/10/2021/04/2048x1365-Strelitzia-reginae-GettyImages-1270647929-4f76714.jpg?quality=90&resize=960%2C640",
+    "lego_set_image": "https://www.lego.com/cdn/cs/set/assets/blt28bceeee61601f57/10289_alt2.png",
+    "website": "https://www.lego.com/en-us/product/bird-of-paradise-10289",
+    "price": "$99.99"
   }
 ]

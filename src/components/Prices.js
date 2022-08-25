@@ -54,7 +54,10 @@ const Prices = (props) => {
       color = 'green'
       break
     case '$129.99':
-      color = 'green'
+      color = 'blue'
+      break
+    case '$299.99':
+      color = 'orange'
       break
     default:
       color = 'white'
